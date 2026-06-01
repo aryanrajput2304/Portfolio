@@ -27,8 +27,8 @@ export default function Projects() {
       description:
         "Task management app with CRUD operations and local storage support.",
       tech: ["React", "Tailwind CSS", "JavaScript"],
-      github: "https://github.com/yourusername/todolist",
-      live: "https://todo.vercel.app",
+      github: "https://github.com/aryanrajput2304/TODO-APP.git",
+      live: "https://todo-rwg9.onrender.com",
       image: "/TodoApp.png",
     },
     {
@@ -36,8 +36,8 @@ export default function Projects() {
       description:
         "Responsive tourism website with destination pages and modern design.",
       tech: ["React", "Tailwind CSS", "JavaScript"],
-      github: "https://github.com/yourusername/tourism",
-      live: "https://tourism.vercel.app",
+      github: "https://github.com/aryanrajput2304/TourIndia.git",
+      live: "https://tourindia-km71.onrender.com",
       image:
         "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     },
@@ -46,8 +46,8 @@ export default function Projects() {
       description:
         "Dynamic blogging platform with authentication and responsive layouts.",
       tech: ["React", "JavaScript", "Tailwind CSS"],
-      github: "https://github.com/yourusername/blog",
-      live: "https://blog.vercel.app",
+      github: "https://github.com/aryanrajput2304/BlogApp.git",
+      live: "https://blogapp-fvih.onrender.com",
       image: "/blog.png",
     },
   ];
