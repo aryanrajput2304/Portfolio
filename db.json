@@ -1,0 +1,11 @@
+{
+  "Form": [
+    {
+      "name": "Aryan",
+      "email": "aryanrajput8735@gmail.com",
+      "message": "Hi Nice portfolio",
+      "id": "4-FkN76HPQE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
