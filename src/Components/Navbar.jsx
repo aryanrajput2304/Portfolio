@@ -75,7 +75,7 @@ export default function Navbar() {
           {/* HAMBURGER BUTTON */}
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className="md:hidden p-2.5 rounded-xl bg-gray-50 dark:bg-white/[0.02] border border-gray-200/60 dark:border-white/[0.05]"
+            className="md:hidden p-2.5 rounded-xl bg-gray-50 dark:bg-white/[0.02] dark:text-white border border-gray-200/60 dark:border-white/[0.05]"
           >
             {isOpen ? (
               <IoClose className="text-2xl" />
