@@ -60,14 +60,14 @@ export default function Hero() {
 
           {/* Right Side Content */}
           <div className="lg:col-span-7 flex flex-col justify-center text-left items-start">
-            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 dark:bg-amber-500/10 border border-amber-200/50 dark:border-amber-500/20">
+            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-6 dark:bg-amber-500/10 border border-amber-200/50 dark:border-amber-500/20">
               <span className="w-2 h-2 rounded-full bg-amber-500 animate-pulse"></span>
               <p className="text-amber-600 dark:text-amber-400 font-semibold tracking-wider text-xs uppercase">
                 Available for Work
               </p>
             </div>
 
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black tracking-tight mt-5 leading-[1.1] text-gray-900 dark:text-white">
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black tracking-tight mt-5 text-gray-900 dark:text-white">
               Hi, I'm{" "}
               <span className="bg-gradient-to-r from-amber-500 via-orange-500 to-amber-600 bg-clip-text text-transparent">
                 Aryan Rajput
@@ -91,7 +91,7 @@ export default function Hero() {
                 href="https://github.com/aryanrajput2304"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-gray-400 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white text-2xl transition-all duration-200 hover:-translate-y-0.5"
+                className="text-black dark:text-gray-500 hover:text-gray-900 dark:hover:text-white text-2xl transition-all duration-200 hover:-translate-y-0.5"
                 aria-label="GitHub Profile"
               >
                 <FaGithub />
@@ -100,7 +100,7 @@ export default function Hero() {
                 href="https://www.linkedin.com/in/aryan-rajput-b0b723292/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-gray-400 dark:text-gray-500 hover:text-[#0077B5] dark:hover:text-[#0077B5] text-2xl transition-all duration-200 hover:-translate-y-0.5"
+                className="text-blue-500 dark:text-gray-500 hover:text-[#0077B5] dark:hover:text-[#0077B5] text-2xl transition-all duration-200 hover:-translate-y-0.5"
                 aria-label="LinkedIn Profile"
               >
                 <FaLinkedin />
