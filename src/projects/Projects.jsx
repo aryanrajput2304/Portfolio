@@ -7,7 +7,7 @@ export default function Projects() {
       title: "E-Commerce Website",
       description:
         "Modern ecommerce platform with authentication, cart, filtering and responsive UI.",
-      tech: ["React", "Tailwind CSS", "Node.js", "MongoDB"],
+      tech: ["React", "Tailwind CSS", "Node.js", "express.js", "MongoDB"],
       github:
         "https://github.com/aryanrajput2304/Ecommerce_Website_Egadegets.git",
       live: "https://ecommerce-website-e-gadgets.onrender.com",
@@ -26,7 +26,7 @@ export default function Projects() {
       title: "Todo List",
       description:
         "Task management app with CRUD operations and local storage support.",
-      tech: ["React", "Tailwind CSS", "JavaScript"],
+      tech: ["React", "Tailwind CSS", "JavaScript", "jSON SERVER"],
       github: "https://github.com/aryanrajput2304/TODO-APP.git",
       live: "https://todo-rwg9.onrender.com",
       image: "/TodoApp.png",
@@ -45,7 +45,7 @@ export default function Projects() {
       title: "Blog Website",
       description:
         "Dynamic blogging platform with authentication and responsive layouts.",
-      tech: ["React", "JavaScript", "Tailwind CSS"],
+      tech: ["React", "JavaScript", "Tailwind CSS", "JSON SERVER"],
       github: "https://github.com/aryanrajput2304/BlogApp.git",
       live: "https://blogapp-fvih.onrender.com",
       image: "/blog.png",

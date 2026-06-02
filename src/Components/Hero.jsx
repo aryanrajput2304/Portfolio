@@ -91,7 +91,7 @@ export default function Hero() {
                 href="https://github.com/aryanrajput2304"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-black dark:text-gray-500 hover:text-gray-900 dark:hover:text-white text-2xl transition-all duration-200 hover:-translate-y-0.5"
+                className="text-black dark:text-white hover:text-gray-900 dark:hover:text-white text-2xl transition-all duration-200 hover:-translate-y-0.5"
                 aria-label="GitHub Profile"
               >
                 <FaGithub />
@@ -100,7 +100,7 @@ export default function Hero() {
                 href="https://www.linkedin.com/in/aryan-rajput-b0b723292/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-blue-500 dark:text-gray-500 hover:text-[#0077B5] dark:hover:text-[#0077B5] text-2xl transition-all duration-200 hover:-translate-y-0.5"
+                className="text-blue-500 dark:text-blue-500 hover:text-[#0077B5] dark:hover:text-[#0077B5] text-2xl transition-all duration-200 hover:-translate-y-0.5"
                 aria-label="LinkedIn Profile"
               >
                 <FaLinkedin />
@@ -114,10 +114,6 @@ export default function Hero() {
                 className="px-8 py-3.5 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 text-white text-sm sm:text-base font-bold transition-all duration-200 shadow-lg shadow-orange-500/15 hover:shadow-orange-500/25 hover:-translate-y-0.5"
               >
                 View Projects
-              </button>
-
-              <button className="px-8 py-3.5 rounded-xl border border-gray-300 dark:border-white/10 text-sm sm:text-base font-bold text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-white/5 transition duration-200">
-                Contact Me
               </button>
             </div>
           </div>

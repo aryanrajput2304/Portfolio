@@ -57,24 +57,28 @@ export default function Experience() {
               </p>
 
               <ul className="mt-5 space-y-2.5 text-gray-600 dark:text-gray-400 text-base leading-relaxed">
-                <li className="flex items-start gap-2">
-                  <span className="text-amber-500 mt-1.5 shrink-0 block w-1.5 h-1.5 rounded-full"></span>
+                <li className="flex items-start gap-3">
+                  <span>🚀</span>
                   <span>Developed responsive MERN Stack applications.</span>
                 </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-amber-500 mt-1.5 shrink-0 block w-1.5 h-1.5 rounded-full"></span>
+
+                <li className="flex items-start gap-3">
+                  <span>⚡</span>
                   <span>Built REST APIs using Node.js and Express.js.</span>
                 </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-amber-500 mt-1.5 shrink-0 block w-1.5 h-1.5 rounded-full"></span>
+
+                <li className="flex items-start gap-3">
+                  <span>🗄️</span>
                   <span>Worked with MongoDB database management.</span>
                 </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-amber-500 mt-1.5 shrink-0 block w-1.5 h-1.5 rounded-full"></span>
+
+                <li className="flex items-start gap-3">
+                  <span>🔗</span>
                   <span>Integrated frontend and backend systems.</span>
                 </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-amber-500 mt-1.5 shrink-0 block w-1.5 h-1.5 rounded-full"></span>
+
+                <li className="flex items-start gap-3">
+                  <span>🤝</span>
                   <span>Collaborated on real-world development projects.</span>
                 </li>
               </ul>
