@@ -50,7 +50,7 @@ export default function Hero() {
               <div className="absolute inset-[-4px] rounded-full bg-gradient-to-tr from-amber-500 to-sky-400 opacity-25 blur-sm"></div>
               <div className="w-full h-full rounded-full overflow-hidden border-2 border-white dark:border-[#0f1524] shadow-[0_25px_60px_-15px_rgba(0,0,0,0.3)] relative z-10">
                 <img
-                  src="/ProfilePhoto.jpg"
+                  src="/profile.png"
                   alt="Aryan Rajput"
                   className="w-full h-full object-cover object-top object-center scale-102"
                 />
