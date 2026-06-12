@@ -11,7 +11,7 @@ export default function Projects() {
       github:
         "https://github.com/aryanrajput2304/Ecommerce_Website_Egadegets.git",
       live: "https://ecommerce-website-e-gadgets.onrender.com",
-      image: "/Ecommerce (2).png",
+      image: "/gadgetgalaxy.png",
     },
     {
       title: "Pomodoro Timer",
